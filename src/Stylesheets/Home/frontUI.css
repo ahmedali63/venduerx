@@ -1,0 +1,54 @@
+#main-div {
+  width: 1450px;
+  margin: 0 auto;
+}
+.main-div {
+  height: 892px;
+  background-color: aqua;
+  padding-top: 55px;
+}
+
+.top-div {
+  height: 418px;
+  background-color: white;
+  position: relative;
+}
+.map-div {
+  height: 418px;
+  width: 816px;
+  overflow: hidden;
+  position: absolute;
+  left: 634px;
+}
+
+.pink-divs,
+.pink1,
+.pink2,
+.pink3,
+.pink4 {
+  height: 100%;
+  width: 736px;
+  background: #d9036854 0% 0% no-repeat padding-box;
+  position: absolute;
+}
+
+.pink1 {
+  width: 692px;
+  left: 0;
+  top: 0;
+}
+.pink2 {
+  width: 648px;
+  left: 0;
+  top: 0;
+}
+.pink3 {
+  width: 600px;
+  left: 0;
+  top: 0;
+}
+.pink4 {
+  width: 561px;
+  left: 0;
+  top: 0;
+}
