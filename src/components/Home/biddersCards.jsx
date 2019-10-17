@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import "./../../Stylesheets/Home/biddersCards.css";
 class BiddersCards extends Component {
   state = {};
   render() {
